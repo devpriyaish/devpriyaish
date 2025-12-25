@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Devpriya Shivani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+/+ML+Engineer+|+Generative+AI+|+RAG+%26+Agentic+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+/+ML+Engineer" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 - Developed outbound AI voice assistant using **Twilio + FastAPI + OpenAI**  
 - 📈 Achieved **50% improvement in conversion rates**
 
-📄 **Advanced Text & Quote Extraction System**  
+📄 **Advanced Textual Information & Quote Extraction System**  
 - Built NLP + RAG system for factual extraction  
 - 💰 Reduced API cost by **90% using Ollama (offline LLMs)**
 
@@ -98,22 +98,29 @@
 
 ---
 
-### ⚙️ **Software Engineer @ RARR Technologies**  
-🗓️ *Oct 2019 – Sep 2020*
+### 🏢 **Software Developer @ Contify**  
+🗓️ *July 2021 – April 2023*
 
-- Built scalable **NER pipelines**
-- Implemented **JWT + OAuth2 authentication**
-- Optimized Django APIs using `select_related` & `prefetch_related`
+🧠 **Integrated Entity Recognition (NER) Pipeline**  
+- Led the development of a **scalable NER pipeline**, significantly improving information retrieval and content categorization through accurate entity extraction from large-scale text corpora.
+
+🔐 **Authentication & Security**  
+- Designed and implemented **JWT-secured APIs** with seamless **OAuth2 authentication flows**, ensuring secure and scalable access control.
+
+⚙️ **Backend API Development**  
+- Built **Django-based APIs** consumed by multi-dashboard frontend applications.  
+- Optimized API performance using **`select_related` and `prefetch_related`**, reducing query overhead and improving response times. Delivered fast, accurate responses across historical & live data
 
 ---
 
-## 🧪 Featured Projects (Hover Effect Feel)
+### ⚙️ **Software Engineer @ RARR Technologies**  
+🗓️ *Oct 2019 – Sep 2020*
 
 📄 **Financial PDF Parser**  
-→ Structured financial data extraction using Pandas & NumPy  
+- Built a **financial PDF data extraction and parsing system** using **Pandas and NumPy**, enabling efficient structuring and analysis of tabular data from complex documents.
 
 👤 **Facial Recognition System**  
-→ OpenCV-based face detection & matching prototype  
+- Developed a **face recognition prototype** using **OpenCV**, implementing image preprocessing and facial feature detection for accurate identity matching.
 
 ---
 
