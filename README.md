@@ -12,10 +12,6 @@
 
 ## 🧠 About Me 
 
-<p>
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpriyaish&layout=compact&theme=tokyonight" />
-</p>
-
 🚀 **AI/ML Engineer with 5+ years of experience** building scalable, production-grade AI systems.  
 🤖 Specialized in **Generative AI, LLMs, RAG pipelines, and Agentic AI architectures**.  
 💡 Known for **reducing hallucinations, improving accuracy, and optimizing GenAI costs** using open-source models.
