@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Devpriya Shivani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+/+ML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=999999&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+/+ML+Engineer" />
 </p>
 
 <p align="center">
