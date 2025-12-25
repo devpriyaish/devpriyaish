@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=github,docker,opencv" />
 </p>
 
-<p align="center"> **GenAI & ML**  </p>
+<h6 align="center"> GenAI & ML  </h6>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
