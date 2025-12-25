@@ -1,16 +1,7 @@
 <h1 align="center">👋 Hi, I'm Devpriya Shivani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=JetBrains+Mono
-  &size=22
-  &duration=2500
-  &pause=900
-  &color=38BDF8
-  &center=true
-  &vCenter=true
-  &width=750
-  &lines=AI+%2F+ML+Engineer;Generative+AI+Specialist;RAG+%26+Agentic+Systems+Architect;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+/+ML+Engineer+|+Generative+AI+|+RAG+%26+Agentic+Systems" />
 </p>
 
 <p align="center">
@@ -19,7 +10,7 @@
 
 ---
 
-## 🧠 About Me (Animated Focus)
+## 🧠 About Me 
 
 <p>
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpriyaish&layout=compact&theme=tokyonight" />
@@ -31,19 +22,12 @@
 
 ---
 
-## 🎯 Current Focus (Live Loop)
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Fira+Code
-  &size=18
-  &pause=800
-  &color=FACC15
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Multi-Agent+AI+Systems;RAG+Pipelines+at+Scale;AI+Voice+Assistants;Open-Source+LLM+Cost+Optimization" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FACC15&center=true&vCenter=true&width=750&lines=Building+Multi-Agent+AI+Systems;Production-Grade+RAG+Pipelines;AI+Voice+Assistants+(Twilio+%2B+LLMs);Open-Source+LLM+Cost+Optimization+(Ollama)" />
 </p>
+
 
 ---
 
@@ -58,7 +42,17 @@
 </p>
 
 **GenAI & ML**  
-`LangChain` · `LangGraph` · `LangSmith` · `RAG` · `OpenAI` · `Ollama` · `NLP` · `Elasticsearch`
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=llama&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch"/>
+</p>
+
 
 ---
 
