@@ -21,7 +21,7 @@
 ## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Production-Grade+RAG+Pipelines;Designing+Multi-Agent+AI+Systems;AI+Voice+Assistants+(Twilio+%2B+LLMs);Reducing+Hallucinations+with+Tool-Calling+Agents;Optimizing+GenAI+Costs+using+Open-Source+LLMs+(Ollama)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Production-Grade+RAG+Pipelines;Designing+Multi-Agent+AI+Systems;AI+Voice+Assistants+(Twilio+%2B+LLMs);Reducing+Hallucinations+with+Tool-Calling+Agents;Optimizing+GenAI+Costs+using+Open-Source+LLMs+(Ollama)" />
 </p>
 
 
